@@ -1,0 +1,9 @@
+// Sintaxis antigua
+
+// @import 'base/variables'; // Sintaxis antigua que hace disponible globalmente la variable
+// @import 'contenido/contenido';
+
+// Nueva sintaxis
+
+@use 'base';
+@use 'layout';
